@@ -15,3 +15,4 @@ Interactive Setup: The command might guide you through an interactive setup proc
 hashing: irreversable   asd -> rfdljelfjd -> non asd
 encoding: reversible    asd -> adhfuhdhf -> back to asd
 7. `jsonwebtoken` untuk bikin token user
+8. `--save-dev @types/bcryptjs`

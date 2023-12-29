@@ -127,7 +127,7 @@ const getBrancheById = (req, res) => __awaiter(void 0, void 0, void 0, function*
         });
     }
     catch (error) {
-        console.log("createBranch error", error.message || error);
+        console.log("@@@getBranchByID error", error.message || error);
         return res.status(500).json({
             code: 500,
             message: "Internal Server Error",
